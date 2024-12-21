@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Temp files
+temp/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Mac OS files
+.DS_Store
+
+# Dist / build (si llegas a compilar algo)
+dist/
